@@ -13,7 +13,8 @@ api = server.api
 
 movies_db = [
 	{'id':1, 'title':'Titanic'},
-	{'id':2, 'title':'The Clone Wars'}
+	{'id':2, 'title':'The Clone Wars'},
+	{'id':3, 'title':'Avengers'}
 ] 
 
 
